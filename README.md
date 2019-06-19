@@ -1,13 +1,9 @@
-# BudgetAppFuturis
-Futuris budget app
 
-Deze app is gemaakt voor Futuris in mei/juni 2019.
-in budget.js is de volledige javascript code te zien met daarbij uitleg.
-de index.html en style.css spreken voor zich.
+Budget-app Futuris
 
-Mocht je deze applicatie zelf willen gebruiken download dan alle 3 de bestandjes en plaats ze samen in een map.
-Zet deze map in je localhost of je eigen server en je kan hem zo gebruiken.
+De Budget-app is gemaakt voor Futuris in mei 2019. Met deze webapplicatie is het mogelijk om de inkomsten en uitgaven bij te houden. Door aan te geven of het om een inkomen of uitgaven gaat, een beschrijving toe te voegen en een bedrag in te voeren wordt er een berekening gemaakt over het beschikbare budget. De applicatie slaat de gegevens vervolgens op in een MySQL-database.
 
-Groet,
+In het bestand index.php is de code van de webapplicatie in combinatie met de PHP die de berekening mogelijk maakt te vinden met de styling in style.CSS
 
-Tim
+De applicatie is zelf te gebruiken door de bestanden te downloaden en deze in dezelfde map te plaatsen. Door deze map in localhost of een server te zetten en aan te geven wat de gegevens van je database zijn, is de applicatie te gebruiken.
+
